@@ -132,7 +132,8 @@
 
 | Project | Description | Tech Stack | Deployed App |
 |---------|-------------|------------|--------------|
-| [Acreditation program](https://github.com/2025-1-PI1-G3/20251-proyecto-t2) | Typescript based SPA with tailwind | Typescript, Tailwind, Javascript, CSS, React| [Live Demo](https://deltanexus.netlify.app)|
+| [Acreditation program](https://github.com/2025-1-PI1-G3/20251-proyecto-t2) | Typescript based SPA with tailwind | Typescript, Tailwind, Javascript, CSS, React| |
+| [Algorithmic Trading Agency](https://github.com/espinosacodes/deltanexusweb) | Typescript based SPA with tailwind | Typescript, Tailwind, Javascript, CSS | [Live Demo](https://deltanexus.netlify.app)|
 
 
 <!--| [Neural Network Framework](https://github.com/) | Custom deep learning implementation | C++, CUDA, Python |-->
