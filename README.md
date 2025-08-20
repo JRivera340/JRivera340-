@@ -107,7 +107,7 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/espinosacodes">
+  <a href="https://github.com/JRivera340">
     <img height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=JRivera340&show_icons=true&theme=dark&bg_color=0d1117&include_all_commits=true&count_private=true&hide_border=true"/>&nbsp;&nbsp;
     <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JRivera340&layout=compact&theme=dark&hide_border=true&hide_progress=true&langs_count=100&cache_seconds=0" alt="All Languages"/> </a>
 </p>
@@ -132,7 +132,7 @@
 
 | Project | Description | Tech Stack | Deployed App |
 |---------|-------------|------------|--------------|
-| [Acreditation program]() | Typescript based SPA with tailwind | Typescript, Tailwind, Javascript, CSS, React| [Live Demo](https://deltanexus.netlify.app)|
+| [Acreditation program](https://github.com/2025-1-PI1-G3/20251-proyecto-t2) | Typescript based SPA with tailwind | Typescript, Tailwind, Javascript, CSS, React| [Live Demo](https://deltanexus.netlify.app)|
 
 
 <!--| [Neural Network Framework](https://github.com/) | Custom deep learning implementation | C++, CUDA, Python |-->
